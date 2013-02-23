@@ -1,0 +1,21 @@
+{
+  "name": "unliteral",
+  "version": "0.0.1",
+  "description": "Transform Objective-C literals into JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pilks/unliteral.git"
+  },
+  "keywords": [
+    "objective-c",
+    "literal",
+    "json"
+  ],
+  "author": "Pilks",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "readable-stream": "~0.3.1"
+  }
+}
